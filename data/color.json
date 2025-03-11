@@ -1,0 +1,220 @@
+{
+    "colors": [
+        {
+            "name": "Red",
+            "hex": "#FF0000",
+            "rgb": "rgb(255,0,0)",
+            "hsl": "hsl(0,100%,50%)",
+            "cmyk": "cmyk(0%,100%,100%,0%)",
+            "category": "Primary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Green",
+            "hex": "#008000",
+            "rgb": "rgb(0,128,0)",
+            "hsl": "hsl(120,100%,25%)",
+            "cmyk": "cmyk(100%,0%,100%,50%)",
+            "category": "Primary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Blue",
+            "hex": "#0000FF",
+            "rgb": "rgb(0,0,255)",
+            "hsl": "hsl(240,100%,50%)",
+            "cmyk": "cmyk(100%,100%,0%,0%)",
+            "category": "Primary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Yellow",
+            "hex": "#FFFF00",
+            "rgb": "rgb(255,255,0)",
+            "hsl": "hsl(60,100%,50%)",
+            "cmyk": "cmyk(0%,0%,100%,0%)",
+            "category": "Primary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Orange",
+            "hex": "#FFA500",
+            "rgb": "rgb(255,165,0)",
+            "hsl": "hsl(39,100%,50%)",
+            "cmyk": "cmyk(0%,35%,100%,0%)",
+            "category": "Secondary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Purple",
+            "hex": "#800080",
+            "rgb": "rgb(128,0,128)",
+            "hsl": "hsl(300,100%,25%)",
+            "cmyk": "cmyk(0%,100%,0%,50%)",
+            "category": "Secondary",
+            "shade": "Dark"
+        },
+        {
+            "name": "Cyan",
+            "hex": "#00FFFF",
+            "rgb": "rgb(0,255,255)",
+            "hsl": "hsl(180,100%,50%)",
+            "cmyk": "cmyk(100%,0%,0%,0%)",
+            "category": "Secondary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Magenta",
+            "hex": "#FF00FF",
+            "rgb": "rgb(255,0,255)",
+            "hsl": "hsl(300,100%,50%)",
+            "cmyk": "cmyk(0%,100%,0%,0%)",
+            "category": "Secondary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Pink",
+            "hex": "#FFC0CB",
+            "rgb": "rgb(255,192,203)",
+            "hsl": "hsl(350,100%,88%)",
+            "cmyk": "cmyk(0%,25%,20%,0%)",
+            "category": "Tertiary",
+            "shade": "Light"
+        },
+        {
+            "name": "Brown",
+            "hex": "#A52A2A",
+            "rgb": "rgb(165,42,42)",
+            "hsl": "hsl(0,59%,41%)",
+            "cmyk": "cmyk(0%,75%,75%,35%)",
+            "category": "Neutral",
+            "shade": "Dark"
+        },
+        {
+            "name": "Gray",
+            "hex": "#808080",
+            "rgb": "rgb(128,128,128)",
+            "hsl": "hsl(0,0%,50%)",
+            "cmyk": "cmyk(0%,0%,0%,50%)",
+            "category": "Neutral",
+            "shade": "Medium"
+        },
+        {
+            "name": "Black",
+            "hex": "#000000",
+            "rgb": "rgb(0,0,0)",
+            "hsl": "hsl(0,0%,0%)",
+            "cmyk": "cmyk(0%,0%,0%,100%)",
+            "category": "Neutral",
+            "shade": "Dark"
+        },
+        {
+            "name": "White",
+            "hex": "#FFFFFF",
+            "rgb": "rgb(255,255,255)",
+            "hsl": "hsl(0,0%,100%)",
+            "cmyk": "cmyk(0%,0%,0%,0%)",
+            "category": "Neutral",
+            "shade": "Light"
+        },
+        {
+            "name": "Beige",
+            "hex": "#F5F5DC",
+            "rgb": "rgb(245,245,220)",
+            "hsl": "hsl(60,56%,91%)",
+            "cmyk": "cmyk(0%,0%,10%,4%)",
+            "category": "Neutral",
+            "shade": "Light"
+        },
+        {
+            "name": "Turquoise",
+            "hex": "#40E0D0",
+            "rgb": "rgb(64,224,208)",
+            "hsl": "hsl(174,72%,56%)",
+            "cmyk": "cmyk(71%,0%,7%,12%)",
+            "category": "Tertiary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Lavender",
+            "hex": "#E6E6FA",
+            "rgb": "rgb(230,230,250)",
+            "hsl": "hsl(240,67%,94%)",
+            "cmyk": "cmyk(8%,8%,0%,2%)",
+            "category": "Tertiary",
+            "shade": "Light"
+        },
+        {
+            "name": "Olive",
+            "hex": "#808000",
+            "rgb": "rgb(128,128,0)",
+            "hsl": "hsl(60,100%,25%)",
+            "cmyk": "cmyk(0%,0%,100%,50%)",
+            "category": "Tertiary",
+            "shade": "Medium"
+        },
+        {
+            "name": "Coral",
+            "hex": "#FF7F50",
+            "rgb": "rgb(255,127,80)",
+            "hsl": "hsl(16,100%,66%)",
+            "cmyk": "cmyk(0%,50%,69%,0%)",
+            "category": "Tertiary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Gold",
+            "hex": "#FFD700",
+            "rgb": "rgb(255,215,0)",
+            "hsl": "hsl(51,100%,50%)",
+            "cmyk": "cmyk(0%,16%,100%,0%)",
+            "category": "Metallic",
+            "shade": "Bright"
+        },
+        {
+            "name": "Silver",
+            "hex": "#C0C0C0",
+            "rgb": "rgb(192,192,192)",
+            "hsl": "hsl(0,0%,75%)",
+            "cmyk": "cmyk(0%,0%,0%,25%)",
+            "category": "Metallic",
+            "shade": "Medium"
+        },
+        {
+            "name": "Copper",
+            "hex": "#B87333",
+            "rgb": "rgb(184,115,51)",
+            "hsl": "hsl(30,60%,47%)",
+            "cmyk": "cmyk(0%,37%,72%,28%)",
+            "category": "Metallic",
+            "shade": "Medium"
+        },
+        {
+            "name": "Indigo",
+            "hex": "#4B0082",
+            "rgb": "rgb(75,0,130)",
+            "hsl": "hsl(275,100%,25%)",
+            "cmyk": "cmyk(42%,100%,0%,49%)",
+            "category": "Primary",
+            "shade": "Dark"
+        },
+        {
+            "name": "Violet",
+            "hex": "#8A2BE2",
+            "rgb": "rgb(138,43,226)",
+            "hsl": "hsl(271,76%,53%)",
+            "cmyk": "cmyk(39%,81%,0%,11%)",
+            "category": "Tertiary",
+            "shade": "Bright"
+        },
+        {
+            "name": "Peach",
+            "hex": "#FFDAB9",
+            "rgb": "rgb(255,218,185)",
+            "hsl": "hsl(39,100%,86%)",
+            "cmyk": "cmyk(0%,14%,27%,0%)",
+            "category": "Tertiary",
+            "shade": "Light"
+        }
+    ]
+}

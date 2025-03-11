@@ -1,0 +1,300 @@
+{
+    "animals": [
+        {
+            "name": "Lion",
+            "scientific_name": "Panthera leo",
+            "class": "Mammalia",
+            "lifespan": "10-14 years",
+            "diet": "Carnivore",
+            "speed": "50 mph"
+        },
+        {
+            "name": "Tiger",
+            "scientific_name": "Panthera tigris",
+            "class": "Mammalia",
+            "lifespan": "10-15 years",
+            "diet": "Carnivore",
+            "speed": "35 mph"
+        },
+        {
+            "name": "Elephant",
+            "scientific_name": "Loxodonta africana",
+            "class": "Mammalia",
+            "lifespan": "60-70 years",
+            "diet": "Herbivore",
+            "speed": "25 mph"
+        },
+        {
+            "name": "Giraffe",
+            "scientific_name": "Giraffa camelopardalis",
+            "class": "Mammalia",
+            "lifespan": "25 years",
+            "diet": "Herbivore",
+            "speed": "35 mph"
+        },
+        {
+            "name": "Zebra",
+            "scientific_name": "Equus quagga",
+            "class": "Mammalia",
+            "lifespan": "25 years",
+            "diet": "Herbivore",
+            "speed": "40 mph"
+        },
+        {
+            "name": "Kangaroo",
+            "scientific_name": "Macropus rufus",
+            "class": "Mammalia",
+            "lifespan": "6-8 years",
+            "diet": "Herbivore",
+            "speed": "35 mph"
+        },
+        {
+            "name": "Koala",
+            "scientific_name": "Phascolarctos cinereus",
+            "class": "Mammalia",
+            "lifespan": "10-12 years",
+            "diet": "Herbivore",
+            "speed": "18 mph"
+        },
+        {
+            "name": "Panda",
+            "scientific_name": "Ailuropoda melanoleuca",
+            "class": "Mammalia",
+            "lifespan": "20 years",
+            "diet": "Herbivore",
+            "speed": "20 mph"
+        },
+        {
+            "name": "Gorilla",
+            "scientific_name": "Gorilla gorilla",
+            "class": "Mammalia",
+            "lifespan": "35-40 years",
+            "diet": "Omnivore",
+            "speed": "25 mph"
+        },
+        {
+            "name": "Chimpanzee",
+            "scientific_name": "Pan troglodytes",
+            "class": "Mammalia",
+            "lifespan": "33-38 years",
+            "diet": "Omnivore",
+            "speed": "25 mph"
+        },
+        {
+            "name": "Bear",
+            "scientific_name": "Ursidae",
+            "class": "Mammalia",
+            "lifespan": "20-30 years",
+            "diet": "Omnivore",
+            "speed": "35 mph"
+        },
+        {
+            "name": "Leopard",
+            "scientific_name": "Panthera pardus",
+            "class": "Mammalia",
+            "lifespan": "12-17 years",
+            "diet": "Carnivore",
+            "speed": "40 mph"
+        },
+        {
+            "name": "Cheetah",
+            "scientific_name": "Acinonyx jubatus",
+            "class": "Mammalia",
+            "lifespan": "10-12 years",
+            "diet": "Carnivore",
+            "speed": "60-70 mph"
+        },
+        {
+            "name": "Rhino",
+            "scientific_name": "Rhinocerotidae",
+            "class": "Mammalia",
+            "lifespan": "40-50 years",
+            "diet": "Herbivore",
+            "speed": "30 mph"
+        },
+        {
+            "name": "Hippo",
+            "scientific_name": "Hippopotamus amphibius",
+            "class": "Mammalia",
+            "lifespan": "40-50 years",
+            "diet": "Herbivore",
+            "speed": "30 mph"
+        },
+        {
+            "name": "Crocodile",
+            "scientific_name": "Crocodylus",
+            "class": "Reptilia",
+            "lifespan": "70-100 years",
+            "diet": "Carnivore",
+            "speed": "20 mph"
+        },
+        {
+            "name": "Alligator",
+            "scientific_name": "Alligator mississippiensis",
+            "class": "Reptilia",
+            "lifespan": "35-50 years",
+            "diet": "Carnivore",
+            "speed": "20 mph"
+        },
+        {
+            "name": "Python",
+            "scientific_name": "Pythonidae",
+            "class": "Reptilia",
+            "lifespan": "20-30 years",
+            "diet": "Carnivore",
+            "speed": "3 mph"
+        },
+        {
+            "name": "Boa",
+            "scientific_name": "Boa constrictor",
+            "class": "Reptilia",
+            "lifespan": "30 years",
+            "diet": "Carnivore",
+            "speed": "2 mph"
+        },
+        {
+            "name": "Cobra",
+            "scientific_name": "Naja",
+            "class": "Reptilia",
+            "lifespan": "20 years",
+            "diet": "Carnivore",
+            "speed": "6 mph"
+        },
+        {
+            "name": "Tortoise",
+            "scientific_name": "Testudinidae",
+            "class": "Reptilia",
+            "lifespan": "50-100 years",
+            "diet": "Herbivore",
+            "speed": "0.3 mph"
+        },
+        {
+            "name": "Turtle",
+            "scientific_name": "Testudines",
+            "class": "Reptilia",
+            "lifespan": "50-80 years",
+            "diet": "Omnivore",
+            "speed": "2 mph"
+        },
+        {
+            "name": "Frog",
+            "scientific_name": "Anura",
+            "class": "Amphibia",
+            "lifespan": "5-10 years",
+            "diet": "Insectivore",
+            "speed": "10 mph"
+        },
+        {
+            "name": "Salamander",
+            "scientific_name": "Caudata",
+            "class": "Amphibia",
+            "lifespan": "6-15 years",
+            "diet": "Insectivore",
+            "speed": "2 mph"
+        },
+        {
+            "name": "Lizard",
+            "scientific_name": "Lacertilia",
+            "class": "Reptilia",
+            "lifespan": "5-20 years",
+            "diet": "Insectivore",
+            "speed": "20 mph"
+        },
+        {
+            "name": "Snake",
+            "scientific_name": "Serpentes",
+            "class": "Reptilia",
+            "lifespan": "10-25 years",
+            "diet": "Carnivore",
+            "speed": "10 mph"
+        },
+        {
+            "name": "Bat",
+            "scientific_name": "Chiroptera",
+            "class": "Mammalia",
+            "lifespan": "10-20 years",
+            "diet": "Insectivore",
+            "speed": "60 mph"
+        },
+        {
+            "name": "Dolphin",
+            "scientific_name": "Delphinidae",
+            "class": "Mammalia",
+            "lifespan": "40-60 years",
+            "diet": "Carnivore",
+            "speed": "25 mph"
+        },
+        {
+            "name": "Whale",
+            "scientific_name": "Cetacea",
+            "class": "Mammalia",
+            "lifespan": "50-100 years",
+            "diet": "Carnivore",
+            "speed": "20 mph"
+        },
+        {
+            "name": "Shark",
+            "scientific_name": "Selachimorpha",
+            "class": "Chondrichthyes",
+            "lifespan": "20-30 years",
+            "diet": "Carnivore",
+            "speed": "50 mph"
+        },
+        {
+            "name": "Octopus",
+            "scientific_name": "Octopoda",
+            "class": "Mollusca",
+            "lifespan": "3-5 years",
+            "diet": "Carnivore",
+            "speed": "4 mph"
+        },
+        {
+            "name": "Squid",
+            "scientific_name": "Teuthida",
+            "class": "Mollusca",
+            "lifespan": "1-2 years",
+            "diet": "Carnivore",
+            "speed": "25 mph"
+        },
+        {
+            "name": "Jellyfish",
+            "scientific_name": "Scyphozoa",
+            "class": "Cnidaria",
+            "lifespan": "6 months",
+            "diet": "Carnivore",
+            "speed": "2 mph"
+        },
+        {
+            "name": "Seahorse",
+            "scientific_name": "Hippocampus",
+            "class": "Pisces",
+            "lifespan": "1-5 years",
+            "diet": "Omnivore",
+            "speed": "0.01 mph"
+        },
+        {
+            "name": "Crab",
+            "scientific_name": "Brachyura",
+            "class": "Arthropoda",
+            "lifespan": "3-4 years",
+            "diet": "Omnivore",
+            "speed": "1 mph"
+        },
+        {
+            "name": "Lobster",
+            "scientific_name": "Nephropidae",
+            "class": "Arthropoda",
+            "lifespan": "25 years",
+            "diet": "Carnivore",
+            "speed": "3 mph"
+        },
+        {
+            "name": "Shrimp",
+            "scientific_name": "Caridea",
+            "class": "Arthropoda",
+            "lifespan": "1-2 years",
+            "diet": "Omnivore",
+            "speed": "5 mph"
+        }
+    ]
+}

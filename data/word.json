@@ -1,0 +1,724 @@
+{
+    "words": [
+        {
+            "word": "Happy",
+            "definition": "Feeling of joy and pleasure",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Joyful",
+                "Content",
+                "Pleased"
+            ],
+            "antonyms": [
+                "Sad",
+                "Unhappy",
+                "Depressed"
+            ],
+            "example": [
+                "She felt happy after winning the game."
+            ]
+        },
+        {
+            "word": "Sad",
+            "definition": "Feeling of sorrow or unhappiness",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Unhappy",
+                "Sorrowful",
+                "Melancholy"
+            ],
+            "antonyms": [
+                "Happy",
+                "Joyful",
+                "Content"
+            ],
+            "example": [
+                "He was sad when he lost his pet."
+            ]
+        },
+        {
+            "word": "Excited",
+            "definition": "Feeling of enthusiasm and eagerness",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Thrilled",
+                "Eager",
+                "Elated"
+            ],
+            "antonyms": [
+                "Indifferent",
+                "Bored",
+                "Disinterested"
+            ],
+            "example": [
+                "She was excited about her birthday party."
+            ]
+        },
+        {
+            "word": "Angry",
+            "definition": "Feeling of intense displeasure or rage",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Furious",
+                "Irate",
+                "Enraged"
+            ],
+            "antonyms": [
+                "Calm",
+                "Happy",
+                "Content"
+            ],
+            "example": [
+                "He was angry when he heard the news."
+            ]
+        },
+        {
+            "word": "Love",
+            "definition": "A deep feeling of affection or care",
+            "part_of_speech": "Noun",
+            "synonyms": [
+                "Affection",
+                "Adoration",
+                "Fondness"
+            ],
+            "antonyms": [
+                "Hate",
+                "Dislike",
+                "Aversion"
+            ],
+            "example": [
+                "She showed her love through kind gestures."
+            ]
+        },
+        {
+            "word": "Hate",
+            "definition": "A feeling of intense dislike or hostility",
+            "part_of_speech": "Verb",
+            "synonyms": [
+                "Loathe",
+                "Despise",
+                "Detest"
+            ],
+            "antonyms": [
+                "Love",
+                "Like",
+                "Admire"
+            ],
+            "example": [
+                "He hated waiting in long lines."
+            ]
+        },
+        {
+            "word": "Fear",
+            "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous",
+            "part_of_speech": "Noun",
+            "synonyms": [
+                "Terror",
+                "Anxiety",
+                "Fright"
+            ],
+            "antonyms": [
+                "Courage",
+                "Bravery",
+                "Fearlessness"
+            ],
+            "example": [
+                "She felt fear when walking through the dark alley."
+            ]
+        },
+        {
+            "word": "Brave",
+            "definition": "Showing courage or determination",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Courageous",
+                "Valiant",
+                "Fearless"
+            ],
+            "antonyms": [
+                "Cowardly",
+                "Afraid",
+                "Timid"
+            ],
+            "example": [
+                "The brave soldier fought for his country."
+            ]
+        },
+        {
+            "word": "Lazy",
+            "definition": "Unwilling to work or exert energy",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Idle",
+                "Indolent",
+                "Lethargic"
+            ],
+            "antonyms": [
+                "Energetic",
+                "Active",
+                "Diligent"
+            ],
+            "example": [
+                "He was too lazy to clean his room."
+            ]
+        },
+        {
+            "word": "Energetic",
+            "definition": "Having or showing a lot of energy or activity",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Active",
+                "Vigorous",
+                "Dynamic"
+            ],
+            "antonyms": [
+                "Lazy",
+                "Inactive",
+                "Lethargic"
+            ],
+            "example": [
+                "The energetic child ran around the playground."
+            ]
+        },
+        {
+            "word": "Smart",
+            "definition": "Having or showing quick intelligence or practical skills",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Intelligent",
+                "Clever",
+                "Bright"
+            ],
+            "antonyms": [
+                "Dull",
+                "Stupid",
+                "Unintelligent"
+            ],
+            "example": [
+                "She gave a smart answer to the question."
+            ]
+        },
+        {
+            "word": "Dull",
+            "definition": "Lacking interest or excitement; boring",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Boring",
+                "Uninteresting",
+                "Monotonous"
+            ],
+            "antonyms": [
+                "Exciting",
+                "Engaging",
+                "Interesting"
+            ],
+            "example": [
+                "The lecture was so dull that I almost fell asleep."
+            ]
+        },
+        {
+            "word": "Beautiful",
+            "definition": "Pleasing to the senses or mind, especially sight",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Attractive",
+                "Lovely",
+                "Pretty"
+            ],
+            "antonyms": [
+                "Ugly",
+                "Unattractive",
+                "Plain"
+            ],
+            "example": [
+                "The sunset was incredibly beautiful."
+            ]
+        },
+        {
+            "word": "Ugly",
+            "definition": "Unpleasant or repulsive in appearance",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Unattractive",
+                "Unappealing",
+                "Repulsive"
+            ],
+            "antonyms": [
+                "Beautiful",
+                "Pretty",
+                "Lovely"
+            ],
+            "example": [
+                "He made an ugly face at the camera."
+            ]
+        },
+        {
+            "word": "Strong",
+            "definition": "Having the power to move heavy weights or perform other physically demanding tasks",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Powerful",
+                "Sturdy",
+                "Robust"
+            ],
+            "antonyms": [
+                "Weak",
+                "Fragile",
+                "Delicate"
+            ],
+            "example": [
+                "She is a strong athlete who can lift heavy weights."
+            ]
+        },
+        {
+            "word": "Weak",
+            "definition": "Lacking strength or power",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Fragile",
+                "Delicate",
+                "Feeble"
+            ],
+            "antonyms": [
+                "Strong",
+                "Powerful",
+                "Robust"
+            ],
+            "example": [
+                "He felt weak after the long illness."
+            ]
+        },
+        {
+            "word": "Fast",
+            "definition": "Moving or capable of moving at high speed",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Quick",
+                "Rapid",
+                "Swift"
+            ],
+            "antonyms": [
+                "Slow",
+                "Lethargic",
+                "Lazy"
+            ],
+            "example": [
+                "The fast car zoomed down the highway."
+            ]
+        },
+        {
+            "word": "Slow",
+            "definition": "Moving or operating at a low speed",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Unhurried",
+                "Leisurely",
+                "Languid"
+            ],
+            "antonyms": [
+                "Fast",
+                "Quick",
+                "Rapid"
+            ],
+            "example": [
+                "The slow turtle made its way across the road."
+            ]
+        },
+        {
+            "word": "Quiet",
+            "definition": "Making little or no noise",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Silent",
+                "Mute",
+                "Hushed"
+            ],
+            "antonyms": [
+                "Loud",
+                "Noisy",
+                "Blaring"
+            ],
+            "example": [
+                "The library is a quiet place to study."
+            ]
+        },
+        {
+            "word": "Loud",
+            "definition": "Producing a lot of sound",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Noisy",
+                "Blaring",
+                "Booming"
+            ],
+            "antonyms": [
+                "Quiet",
+                "Silent",
+                "Mute"
+            ],
+            "example": [
+                "The loud music could be heard from the street."
+            ]
+        },
+        {
+            "word": "Kind",
+            "definition": "Being considerate, compassionate, and helpful",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Caring",
+                "Compassionate",
+                "Generous"
+            ],
+            "antonyms": [
+                "Cruel",
+                "Selfish",
+                "Mean"
+            ],
+            "example": [
+                "She is kind to everyone she meets."
+            ]
+        },
+        {
+            "word": "Cruel",
+            "definition": "Showing a lack of compassion or kindness",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Heartless",
+                "Savage",
+                "Brutal"
+            ],
+            "antonyms": [
+                "Kind",
+                "Gentle",
+                "Compassionate"
+            ],
+            "example": [
+                "The cruel treatment of animals should be stopped."
+            ]
+        },
+        {
+            "word": "Generous",
+            "definition": "Willing to give more than is necessary or expected",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Charitable",
+                "Benevolent",
+                "Selfless"
+            ],
+            "antonyms": [
+                "Selfish",
+                "Stingy",
+                "Greedy"
+            ],
+            "example": [
+                "He made a generous donation to the charity."
+            ]
+        },
+        {
+            "word": "Selfish",
+            "definition": "Lacking consideration for others; concerned only with one's own personal profit or pleasure",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Egoistic",
+                "Self-centered",
+                "Greedy"
+            ],
+            "antonyms": [
+                "Generous",
+                "Altruistic",
+                "Unselfish"
+            ],
+            "example": [
+                "Her selfish attitude hurt her friends."
+            ]
+        },
+        {
+            "word": "Funny",
+            "definition": "Causing laughter or amusement",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Amusing",
+                "Hilarious",
+                "Entertaining"
+            ],
+            "antonyms": [
+                "Serious",
+                "Boring",
+                "Dull"
+            ],
+            "example": [
+                "He told a funny joke that made everyone laugh."
+            ]
+        },
+        {
+            "word": "Serious",
+            "definition": "Solemn or thoughtful in character or manner",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Solemn",
+                "Grave",
+                "Earnest"
+            ],
+            "antonyms": [
+                "Funny",
+                "Lighthearted",
+                "Playful"
+            ],
+            "example": [
+                "She gave him a serious look before speaking."
+            ]
+        },
+        {
+            "word": "Tall",
+            "definition": "Having a greater than average height",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Tidy",
+                "Lofty",
+                "Elevated"
+            ],
+            "antonyms": [
+                "Short",
+                "Small",
+                "Petite"
+            ],
+            "example": [
+                "He is taller than most of his friends."
+            ]
+        },
+        {
+            "word": "Short",
+            "definition": "Having a small distance from top to bottom or from end to end",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Small",
+                "Petite",
+                "Tiny"
+            ],
+            "antonyms": [
+                "Tall",
+                "Long",
+                "High"
+            ],
+            "example": [
+                "She is short compared to her brother."
+            ]
+        },
+        {
+            "word": "Old",
+            "definition": "Having lived for a long time; aged",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Aged",
+                "Ancient",
+                "Senior"
+            ],
+            "antonyms": [
+                "Young",
+                "New",
+                "Fresh"
+            ],
+            "example": [
+                "The old man walked slowly down the street."
+            ]
+        },
+        {
+            "word": "Young",
+            "definition": "Having lived or existed for only a short time",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Juvenile",
+                "Youthful",
+                "Fresh"
+            ],
+            "antonyms": [
+                "Old",
+                "Aged",
+                "Mature"
+            ],
+            "example": [
+                "She is young and energetic."
+            ]
+        },
+        {
+            "word": "Rich",
+            "definition": "Having a lot of money or assets",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Wealthy",
+                "Affluent",
+                "Prosperous"
+            ],
+            "antonyms": [
+                "Poor",
+                "Impoverished",
+                "Needy"
+            ],
+            "example": [
+                "He became rich after launching his own tech company."
+            ]
+        },
+        {
+            "word": "Poor",
+            "definition": "Lacking sufficient money or resources",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Impoverished",
+                "Destitute",
+                "Needy"
+            ],
+            "antonyms": [
+                "Rich",
+                "Affluent",
+                "Wealthy"
+            ],
+            "example": [
+                "They live in a poor neighborhood."
+            ]
+        },
+        {
+            "word": "Friendly",
+            "definition": "Kind and pleasant to others",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Kind",
+                "Amiable",
+                "Sociable"
+            ],
+            "antonyms": [
+                "Unfriendly",
+                "Hostile",
+                "Cold"
+            ],
+            "example": [
+                "She is always so friendly with everyone she meets."
+            ]
+        },
+        {
+            "word": "Hostile",
+            "definition": "Unfriendly and antagonistic",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Aggressive",
+                "Antagonistic",
+                "Unfriendly"
+            ],
+            "antonyms": [
+                "Friendly",
+                "Amiable",
+                "Kind"
+            ],
+            "example": [
+                "The two countries were hostile towards each other."
+            ]
+        },
+        {
+            "word": "Calm",
+            "definition": "Not agitated or excited; peaceful",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Peaceful",
+                "Tranquil",
+                "Serene"
+            ],
+            "antonyms": [
+                "Agitated",
+                "Anxious",
+                "Excited"
+            ],
+            "example": [
+                "She stayed calm even in the stressful situation."
+            ]
+        },
+        {
+            "word": "Agitated",
+            "definition": "Feeling or appearing nervous or upset",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Disturbed",
+                "Unsettled",
+                "Nervous"
+            ],
+            "antonyms": [
+                "Calm",
+                "Serene",
+                "Peaceful"
+            ],
+            "example": [
+                "He was agitated after hearing the bad news."
+            ]
+        },
+        {
+            "word": "Creative",
+            "definition": "Having the ability to make new things or think in original ways",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Inventive",
+                "Imaginative",
+                "Innovative"
+            ],
+            "antonyms": [
+                "Unimaginative",
+                "Boring",
+                "Uncreative"
+            ],
+            "example": [
+                "She came up with a creative solution to the problem."
+            ]
+        },
+        {
+            "word": "Unimaginative",
+            "definition": "Lacking creativity or original thought",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Boring",
+                "Uninspired",
+                "Stale"
+            ],
+            "antonyms": [
+                "Creative",
+                "Inventive",
+                "Innovative"
+            ],
+            "example": [
+                "His approach to the project was unimaginative and predictable."
+            ]
+        },
+        {
+            "word": "Brilliant",
+            "definition": "Very bright or intelligent",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Intelligent",
+                "Genius",
+                "Exceptional"
+            ],
+            "antonyms": [
+                "Dull",
+                "Stupid",
+                "Unintelligent"
+            ],
+            "example": [
+                "She had a brilliant idea for the marketing campaign."
+            ]
+        },
+        {
+            "word": "Dull",
+            "definition": "Lacking in brightness or intensity; boring",
+            "part_of_speech": "Adjective",
+            "synonyms": [
+                "Boring",
+                "Uninteresting",
+                "Monotonous"
+            ],
+            "antonyms": [
+                "Brilliant",
+                "Exciting",
+                "Engaging"
+            ],
+            "example": [
+                "The dull gray sky reflected her mood."
+            ]
+        }
+    ]
+}
